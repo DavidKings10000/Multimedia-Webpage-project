@@ -1,0 +1,128 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: left;
+    height: 75px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-flex;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #fff;
+    color: #333;
+    padding: 5px;
+    height: 30px;
+    text-align: center;
+}
+
+/* Additional styling for gallery */
+
+gallery-head{
+    margin:0;
+    font-Size:25;
+    line-height:1.1;
+}
+.gallery {
+    display: flex;
+    justify-content: space-between;
+    align-items: default;
+    margin-bottom: 30px;
+}
+
+.gallery img {
+    background-color: whitesmoke;
+    color: black;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 5px;
+}
+
+/* Additional styling for videos */
+.videos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.videos iframe {
+    margin: 10px 0;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: auto;
+}
+.grid-item {
+    background-color: whitesmoke;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+.alignright, .fusion-alignright {
+    display: inline;
+    float: right;
+    margin-left: 15px;
+}
+.fusion-disable-outline .fusion-button, .fusion-disable-outline .gform_wrapper .button, .fusion-disable-outline .gform_wrapper .gform_button, .fusion-disable-outline .post-password-form input[type=submit], .fusion-disable-outline .single_add_to_cart_button, .fusion-disable-outline .tml-submit-wrap input[type=submit], .fusion-disable-outline .tribe-events-tickets .button, .fusion-disable-outline .tribe-tickets button, .fusion-disable-outline .woocommerce .cart-collaterals .checkout-button, .fusion-disable-outline .woocommerce .checkout #place_order, .fusion-disable-outline .woocommerce.add_to_cart_inline .button, .fusion-disable-outline .wpcf7-submit {
+    outline: 0;
+}
+.fusion-button.button-flat {
+    box-shadow: none!important;
+    color: #fff;
+}
+#main #comment-submit:visited, .button-default:visited, .button.default:visited, .comment-form input[type="submit"]:visited, .fusion-button-default:visited, input.button-default:visited {
+    color: var(--button_accent_color);
+}
+button{
+    background-color: black;
+    border: none;
+    color: #fff;
+    padding-right: 20px;
+    height: 40px;
+    font-size: medium;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: default;
+    margin-bottom: 30px;
+}
+.flex-item {
+    background-color: whitesmoke;
+    color: black;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 5px;
+}
