@@ -7,11 +7,13 @@ Sustainable development is not merely a buzzword; it is a philosophy, a way of l
 # 
 The Sustainable Development Goals (SDGs) are a set of 17 interconnected global objectives established by the United Nations in 2015 as a universal call to action to end poverty, protect the planet, and ensure prosperity for all by 2030. These goals address a wide range of social, economic, and environmental challenges facing the world today, aiming to create a more sustainable and equitable future for everyone.
 
-Here's a brief explanation of each of the Sustainable Development Goals:
+Here's a brief explanation of each of the Sustainable Development Goals accompanied by their targets:
 
 # No Poverty (Goal 1):
 End poverty in all its forms everywhere by ensuring equal access to resources and opportunities for all individuals and communities.
+
 Target 1.1: By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.
+
 Target 1.2: By 2030, reduce at least by half the proportion of men, women, and children of all ages living in poverty.
 
 # Zero Hunger (Goal 2):
